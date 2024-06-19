@@ -1,0 +1,36 @@
+﻿body {
+background-color:black;
+}
+label, input{
+    margin: auto;
+    text-align:center;
+}
+div {
+    margin: auto;
+    text-align: center;
+    font-family: Arial;
+    background-color: yellow;
+    width: 30%;
+    border-radius: 10px 10px;
+    box-shadow: rgba(10, 10, 10, 10), 10px, 10px inset;
+    border:10px double white;
+}
+
+button{
+    background-color:black;
+    color: ghostwhite;
+    font-size:22px;
+    border-radius:10px 10px;
+}
+    button:hover {
+        background-color: gray;
+        color: yellow;
+    }
+    .message{
+        color:gray;
+    }
+  .top{
+      margin-bottom:10%;
+      border:none;
+  }
+
